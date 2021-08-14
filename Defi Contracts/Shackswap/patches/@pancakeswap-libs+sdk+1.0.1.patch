@@ -1,0 +1,15 @@
+diff --git a/node_modules/@pancakeswap-libs/sdk/dist/constants.d.ts b/node_modules/@pancakeswap-libs/sdk/dist/constants.d.ts
+index ef5b07c..a99afa2 100644
+--- a/node_modules/@pancakeswap-libs/sdk/dist/constants.d.ts
++++ b/node_modules/@pancakeswap-libs/sdk/dist/constants.d.ts
+@@ -13,8 +13,8 @@ export declare enum Rounding {
+     ROUND_HALF_UP = 1,
+     ROUND_UP = 2
+ }
+-export declare const FACTORY_ADDRESS = "0xBCfCcbde45cE874adCB698cC183deBcF17952812";
+-export declare const INIT_CODE_HASH = "0xd0d4c4cd0848c93cb4fd1f498d7013ee6bfb25783ea21593d5834f5d250ece66";
++export declare const FACTORY_ADDRESS = "0xd3339261B1C0e12352339e9175f5240bCA86090E";
++export declare const INIT_CODE_HASH = "14c86212e209d9b1cac11acce13fe0260f93ccd883ab9e19985415b2b2861c3e";
+ export declare const MINIMUM_LIQUIDITY: JSBI;
+ export declare const ZERO: JSBI;
+ export declare const ONE: JSBI;
