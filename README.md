@@ -1,6 +1,6 @@
 # Solulab-Projects (Ujjwal)
 
-These are few of the smart contracts that I have build
+I am including few of the smart contracts that I have build
 They include:
 
 a) Tokenization Project
