@@ -1,4 +1,4 @@
-# Solulab-
+# Solulab-Projects (Ujjwal)
 
 These are few of the smart contracts that I have build
 They include:
